@@ -1,6 +1,6 @@
 console.log('hello node js');
 
-const products = process.argv.slice(2)
+const PIN_KEY = process.argv.slice(2)
 // products.forEach(product => {
 //     console.log(`${product}`);
 // });
